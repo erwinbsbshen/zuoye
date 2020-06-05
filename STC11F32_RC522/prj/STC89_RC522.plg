@@ -1,0 +1,1014 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+D:\chencunlin\MFRC522_STC\IC开发板_STC89\IC开发板_STC89_2\源程序\STC11_RC522_完整液晶_20121112\prj\STC89_RC522.uvproj
+Project File Date:  11/05/2012
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling lcd_1602.c...
+linking...
+Program Size: data=9.0 xdata=194 code=7645
+creating hex file from "STC11_RC522"...
+"STC11_RC522" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lcd_1602.c...
+linking...
+Program Size: data=9.0 xdata=194 code=7645
+creating hex file from "STC11_RC522"...
+"STC11_RC522" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lcd_1602.c...
+linking...
+Program Size: data=9.0 xdata=194 code=7645
+creating hex file from "STC11_RC522"...
+"STC11_RC522" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lcd_1602.c...
+linking...
+Program Size: data=9.0 xdata=194 code=7645
+creating hex file from "STC11_RC522"...
+"STC11_RC522" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lcd_1602.c...
+linking...
+Program Size: data=9.0 xdata=194 code=7645
+creating hex file from "STC11_RC522"...
+"STC11_RC522" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lcd_1602.c...
+linking...
+Program Size: data=9.0 xdata=194 code=7645
+creating hex file from "STC11_RC522"...
+"STC11_RC522" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+..\CODE\MAIN.C(23): error C202: 'P0M1': undefined identifier
+..\CODE\MAIN.C(24): error C202: 'P0M0': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling ctrl.c...
+..\CODE\STC11.H(21): error C231: 'PSW': redefinition
+..\CODE\STC11.H(25): error C231: 'CY': redefinition
+..\CODE\STC11.H(26): error C231: 'AC': redefinition
+..\CODE\STC11.H(27): error C231: 'F0': redefinition
+..\CODE\STC11.H(28): error C231: 'RS1': redefinition
+..\CODE\STC11.H(29): error C231: 'RS0': redefinition
+..\CODE\STC11.H(30): error C231: 'OV': redefinition
+..\CODE\STC11.H(31): error C231: 'P': redefinition
+..\CODE\STC11.H(35): error C231: 'ACC': redefinition
+..\CODE\STC11.H(49): error C231: 'B': redefinition
+..\CODE\STC11.H(54): error C231: 'SP': redefinition
+..\CODE\STC11.H(59): error C231: 'DPL': redefinition
+..\CODE\STC11.H(64): error C231: 'DPH': redefinition
+..\CODE\STC11.H(69): error C231: 'PCON': redefinition
+..\CODE\STC11.H(174): error C231: 'P0': redefinition
+..\CODE\STC11.H(189): error C231: 'P1': redefinition
+..\CODE\STC11.H(209): error C231: 'P2': redefinition
+..\CODE\STC11.H(224): error C231: 'P3': redefinition
+..\CODE\STC11.H(237): error C231: 'RXD': redefinition
+..\CODE\STC11.H(238): error C231: 'TXD': redefinition
+..\CODE\STC11.H(239): error C231: 'INT0': redefinition
+..\CODE\STC11.H(240): error C231: 'INT1': redefinition
+..\CODE\STC11.H(241): error C231: 'T0': redefinition
+..\CODE\STC11.H(242): error C231: 'T1': redefinition
+..\CODE\STC11.H(243): error C231: 'WR': redefinition
+..\CODE\STC11.H(244): error C231: 'RD': redefinition
+..\CODE\STC11.H(334): error C231: 'IE': redefinition
+..\CODE\STC11.H(338): error C231: 'EA': redefinition
+..\CODE\STC11.H(340): error C231: 'ES': redefinition
+..\CODE\STC11.H(341): error C231: 'ET1': redefinition
+..\CODE\STC11.H(342): error C231: 'EX1': redefinition
+..\CODE\STC11.H(343): error C231: 'ET0': redefinition
+..\CODE\STC11.H(344): error C231: 'EX0': redefinition
+..\CODE\STC11.H(355): error C231: 'IP': redefinition
+..\CODE\STC11.H(360): error C231: 'PS': redefinition
+..\CODE\STC11.H(361): error C231: 'PT1': redefinition
+..\CODE\STC11.H(362): error C231: 'PX1': redefinition
+..\CODE\STC11.H(363): error C231: 'PT0': redefinition
+..\CODE\STC11.H(364): error C231: 'PX0': redefinition
+..\CODE\STC11.H(368): error C231: 'TCON': redefinition
+..\CODE\STC11.H(372): error C231: 'TF1': redefinition
+..\CODE\STC11.H(373): error C231: 'TR1': redefinition
+..\CODE\STC11.H(374): error C231: 'TF0': redefinition
+..\CODE\STC11.H(375): error C231: 'TR0': redefinition
+..\CODE\STC11.H(376): error C231: 'IE1': redefinition
+..\CODE\STC11.H(377): error C231: 'IT1': redefinition
+..\CODE\STC11.H(378): error C231: 'IE0': redefinition
+..\CODE\STC11.H(379): error C231: 'IT0': redefinition
+..\CODE\STC11.H(383): error C231: 'TMOD': redefinition
+..\CODE\STC11.H(402): error C231: 'TL0': redefinition
+..\CODE\STC11.H(407): error C231: 'TL1': redefinition
+..\CODE\STC11.H(412): error C231: 'TH0': redefinition
+..\CODE\STC11.H(417): error C231: 'TH1': redefinition
+..\CODE\STC11.H(422): error C231: 'SCON': redefinition
+..\CODE\STC11.H(427): error C231: 'SM0': redefinition
+..\CODE\STC11.H(428): error C231: 'SM1': redefinition
+..\CODE\STC11.H(429): error C231: 'SM2': redefinition
+..\CODE\STC11.H(430): error C231: 'REN': redefinition
+..\CODE\STC11.H(431): error C231: 'TB8': redefinition
+..\CODE\STC11.H(432): error C231: 'RB8': redefinition
+..\CODE\STC11.H(433): error C231: 'TI': redefinition
+..\CODE\STC11.H(434): error C231: 'RI': redefinition
+..\CODE\STC11.H(438): error C231: 'SBUF': redefinition
+compiling main.c...
+..\CODE\STC11.H(21): error C231: 'PSW': redefinition
+..\CODE\STC11.H(25): error C231: 'CY': redefinition
+..\CODE\STC11.H(26): error C231: 'AC': redefinition
+..\CODE\STC11.H(27): error C231: 'F0': redefinition
+..\CODE\STC11.H(28): error C231: 'RS1': redefinition
+..\CODE\STC11.H(29): error C231: 'RS0': redefinition
+..\CODE\STC11.H(30): error C231: 'OV': redefinition
+..\CODE\STC11.H(31): error C231: 'P': redefinition
+..\CODE\STC11.H(35): error C231: 'ACC': redefinition
+..\CODE\STC11.H(49): error C231: 'B': redefinition
+..\CODE\STC11.H(54): error C231: 'SP': redefinition
+..\CODE\STC11.H(59): error C231: 'DPL': redefinition
+..\CODE\STC11.H(64): error C231: 'DPH': redefinition
+..\CODE\STC11.H(69): error C231: 'PCON': redefinition
+..\CODE\STC11.H(174): error C231: 'P0': redefinition
+..\CODE\STC11.H(189): error C231: 'P1': redefinition
+..\CODE\STC11.H(209): error C231: 'P2': redefinition
+..\CODE\STC11.H(224): error C231: 'P3': redefinition
+..\CODE\STC11.H(237): error C231: 'RXD': redefinition
+..\CODE\STC11.H(238): error C231: 'TXD': redefinition
+..\CODE\STC11.H(239): error C231: 'INT0': redefinition
+..\CODE\STC11.H(240): error C231: 'INT1': redefinition
+..\CODE\STC11.H(241): error C231: 'T0': redefinition
+..\CODE\STC11.H(242): error C231: 'T1': redefinition
+..\CODE\STC11.H(243): error C231: 'WR': redefinition
+..\CODE\STC11.H(244): error C231: 'RD': redefinition
+..\CODE\STC11.H(334): error C231: 'IE': redefinition
+..\CODE\STC11.H(338): error C231: 'EA': redefinition
+..\CODE\STC11.H(340): error C231: 'ES': redefinition
+..\CODE\STC11.H(341): error C231: 'ET1': redefinition
+..\CODE\STC11.H(342): error C231: 'EX1': redefinition
+..\CODE\STC11.H(343): error C231: 'ET0': redefinition
+..\CODE\STC11.H(344): error C231: 'EX0': redefinition
+..\CODE\STC11.H(355): error C231: 'IP': redefinition
+..\CODE\STC11.H(360): error C231: 'PS': redefinition
+..\CODE\STC11.H(361): error C231: 'PT1': redefinition
+..\CODE\STC11.H(362): error C231: 'PX1': redefinition
+..\CODE\STC11.H(363): error C231: 'PT0': redefinition
+..\CODE\STC11.H(364): error C231: 'PX0': redefinition
+..\CODE\STC11.H(368): error C231: 'TCON': redefinition
+..\CODE\STC11.H(372): error C231: 'TF1': redefinition
+..\CODE\STC11.H(373): error C231: 'TR1': redefinition
+..\CODE\STC11.H(374): error C231: 'TF0': redefinition
+..\CODE\STC11.H(375): error C231: 'TR0': redefinition
+..\CODE\STC11.H(376): error C231: 'IE1': redefinition
+..\CODE\STC11.H(377): error C231: 'IT1': redefinition
+..\CODE\STC11.H(378): error C231: 'IE0': redefinition
+..\CODE\STC11.H(379): error C231: 'IT0': redefinition
+..\CODE\STC11.H(383): error C231: 'TMOD': redefinition
+..\CODE\STC11.H(402): error C231: 'TL0': redefinition
+..\CODE\STC11.H(407): error C231: 'TL1': redefinition
+..\CODE\STC11.H(412): error C231: 'TH0': redefinition
+..\CODE\STC11.H(417): error C231: 'TH1': redefinition
+..\CODE\STC11.H(422): error C231: 'SCON': redefinition
+..\CODE\STC11.H(427): error C231: 'SM0': redefinition
+..\CODE\STC11.H(428): error C231: 'SM1': redefinition
+..\CODE\STC11.H(429): error C231: 'SM2': redefinition
+..\CODE\STC11.H(430): error C231: 'REN': redefinition
+..\CODE\STC11.H(431): error C231: 'TB8': redefinition
+..\CODE\STC11.H(432): error C231: 'RB8': redefinition
+..\CODE\STC11.H(433): error C231: 'TI': redefinition
+..\CODE\STC11.H(434): error C231: 'RI': redefinition
+..\CODE\STC11.H(438): error C231: 'SBUF': redefinition
+compiling rc522.c...
+..\CODE\STC11.H(21): error C231: 'PSW': redefinition
+..\CODE\STC11.H(25): error C231: 'CY': redefinition
+..\CODE\STC11.H(26): error C231: 'AC': redefinition
+..\CODE\STC11.H(27): error C231: 'F0': redefinition
+..\CODE\STC11.H(28): error C231: 'RS1': redefinition
+..\CODE\STC11.H(29): error C231: 'RS0': redefinition
+..\CODE\STC11.H(30): error C231: 'OV': redefinition
+..\CODE\STC11.H(31): error C231: 'P': redefinition
+..\CODE\STC11.H(35): error C231: 'ACC': redefinition
+..\CODE\STC11.H(49): error C231: 'B': redefinition
+..\CODE\STC11.H(54): error C231: 'SP': redefinition
+..\CODE\STC11.H(59): error C231: 'DPL': redefinition
+..\CODE\STC11.H(64): error C231: 'DPH': redefinition
+..\CODE\STC11.H(69): error C231: 'PCON': redefinition
+..\CODE\STC11.H(174): error C231: 'P0': redefinition
+..\CODE\STC11.H(189): error C231: 'P1': redefinition
+..\CODE\STC11.H(209): error C231: 'P2': redefinition
+..\CODE\STC11.H(224): error C231: 'P3': redefinition
+..\CODE\STC11.H(237): error C231: 'RXD': redefinition
+..\CODE\STC11.H(238): error C231: 'TXD': redefinition
+..\CODE\STC11.H(239): error C231: 'INT0': redefinition
+..\CODE\STC11.H(240): error C231: 'INT1': redefinition
+..\CODE\STC11.H(241): error C231: 'T0': redefinition
+..\CODE\STC11.H(242): error C231: 'T1': redefinition
+..\CODE\STC11.H(243): error C231: 'WR': redefinition
+..\CODE\STC11.H(244): error C231: 'RD': redefinition
+..\CODE\STC11.H(334): error C231: 'IE': redefinition
+..\CODE\STC11.H(338): error C231: 'EA': redefinition
+..\CODE\STC11.H(340): error C231: 'ES': redefinition
+..\CODE\STC11.H(341): error C231: 'ET1': redefinition
+..\CODE\STC11.H(342): error C231: 'EX1': redefinition
+..\CODE\STC11.H(343): error C231: 'ET0': redefinition
+..\CODE\STC11.H(344): error C231: 'EX0': redefinition
+..\CODE\STC11.H(355): error C231: 'IP': redefinition
+..\CODE\STC11.H(360): error C231: 'PS': redefinition
+..\CODE\STC11.H(361): error C231: 'PT1': redefinition
+..\CODE\STC11.H(362): error C231: 'PX1': redefinition
+..\CODE\STC11.H(363): error C231: 'PT0': redefinition
+..\CODE\STC11.H(364): error C231: 'PX0': redefinition
+..\CODE\STC11.H(368): error C231: 'TCON': redefinition
+..\CODE\STC11.H(372): error C231: 'TF1': redefinition
+..\CODE\STC11.H(373): error C231: 'TR1': redefinition
+..\CODE\STC11.H(374): error C231: 'TF0': redefinition
+..\CODE\STC11.H(375): error C231: 'TR0': redefinition
+..\CODE\STC11.H(376): error C231: 'IE1': redefinition
+..\CODE\STC11.H(377): error C231: 'IT1': redefinition
+..\CODE\STC11.H(378): error C231: 'IE0': redefinition
+..\CODE\STC11.H(379): error C231: 'IT0': redefinition
+..\CODE\STC11.H(383): error C231: 'TMOD': redefinition
+..\CODE\STC11.H(402): error C231: 'TL0': redefinition
+..\CODE\STC11.H(407): error C231: 'TL1': redefinition
+..\CODE\STC11.H(412): error C231: 'TH0': redefinition
+..\CODE\STC11.H(417): error C231: 'TH1': redefinition
+..\CODE\STC11.H(422): error C231: 'SCON': redefinition
+..\CODE\STC11.H(427): error C231: 'SM0': redefinition
+..\CODE\STC11.H(428): error C231: 'SM1': redefinition
+..\CODE\STC11.H(429): error C231: 'SM2': redefinition
+..\CODE\STC11.H(430): error C231: 'REN': redefinition
+..\CODE\STC11.H(431): error C231: 'TB8': redefinition
+..\CODE\STC11.H(432): error C231: 'RB8': redefinition
+..\CODE\STC11.H(433): error C231: 'TI': redefinition
+..\CODE\STC11.H(434): error C231: 'RI': redefinition
+..\CODE\STC11.H(438): error C231: 'SBUF': redefinition
+compiling timer.c...
+..\CODE\STC11.H(21): error C231: 'PSW': redefinition
+..\CODE\STC11.H(25): error C231: 'CY': redefinition
+..\CODE\STC11.H(26): error C231: 'AC': redefinition
+..\CODE\STC11.H(27): error C231: 'F0': redefinition
+..\CODE\STC11.H(28): error C231: 'RS1': redefinition
+..\CODE\STC11.H(29): error C231: 'RS0': redefinition
+..\CODE\STC11.H(30): error C231: 'OV': redefinition
+..\CODE\STC11.H(31): error C231: 'P': redefinition
+..\CODE\STC11.H(35): error C231: 'ACC': redefinition
+..\CODE\STC11.H(49): error C231: 'B': redefinition
+..\CODE\STC11.H(54): error C231: 'SP': redefinition
+..\CODE\STC11.H(59): error C231: 'DPL': redefinition
+..\CODE\STC11.H(64): error C231: 'DPH': redefinition
+..\CODE\STC11.H(69): error C231: 'PCON': redefinition
+..\CODE\STC11.H(174): error C231: 'P0': redefinition
+..\CODE\STC11.H(189): error C231: 'P1': redefinition
+..\CODE\STC11.H(209): error C231: 'P2': redefinition
+..\CODE\STC11.H(224): error C231: 'P3': redefinition
+..\CODE\STC11.H(237): error C231: 'RXD': redefinition
+..\CODE\STC11.H(238): error C231: 'TXD': redefinition
+..\CODE\STC11.H(239): error C231: 'INT0': redefinition
+..\CODE\STC11.H(240): error C231: 'INT1': redefinition
+..\CODE\STC11.H(241): error C231: 'T0': redefinition
+..\CODE\STC11.H(242): error C231: 'T1': redefinition
+..\CODE\STC11.H(243): error C231: 'WR': redefinition
+..\CODE\STC11.H(244): error C231: 'RD': redefinition
+..\CODE\STC11.H(334): error C231: 'IE': redefinition
+..\CODE\STC11.H(338): error C231: 'EA': redefinition
+..\CODE\STC11.H(340): error C231: 'ES': redefinition
+..\CODE\STC11.H(341): error C231: 'ET1': redefinition
+..\CODE\STC11.H(342): error C231: 'EX1': redefinition
+..\CODE\STC11.H(343): error C231: 'ET0': redefinition
+..\CODE\STC11.H(344): error C231: 'EX0': redefinition
+..\CODE\STC11.H(355): error C231: 'IP': redefinition
+..\CODE\STC11.H(360): error C231: 'PS': redefinition
+..\CODE\STC11.H(361): error C231: 'PT1': redefinition
+..\CODE\STC11.H(362): error C231: 'PX1': redefinition
+..\CODE\STC11.H(363): error C231: 'PT0': redefinition
+..\CODE\STC11.H(364): error C231: 'PX0': redefinition
+..\CODE\STC11.H(368): error C231: 'TCON': redefinition
+..\CODE\STC11.H(372): error C231: 'TF1': redefinition
+..\CODE\STC11.H(373): error C231: 'TR1': redefinition
+..\CODE\STC11.H(374): error C231: 'TF0': redefinition
+..\CODE\STC11.H(375): error C231: 'TR0': redefinition
+..\CODE\STC11.H(376): error C231: 'IE1': redefinition
+..\CODE\STC11.H(377): error C231: 'IT1': redefinition
+..\CODE\STC11.H(378): error C231: 'IE0': redefinition
+..\CODE\STC11.H(379): error C231: 'IT0': redefinition
+..\CODE\STC11.H(383): error C231: 'TMOD': redefinition
+..\CODE\STC11.H(402): error C231: 'TL0': redefinition
+..\CODE\STC11.H(407): error C231: 'TL1': redefinition
+..\CODE\STC11.H(412): error C231: 'TH0': redefinition
+..\CODE\STC11.H(417): error C231: 'TH1': redefinition
+..\CODE\STC11.H(422): error C231: 'SCON': redefinition
+..\CODE\STC11.H(427): error C231: 'SM0': redefinition
+..\CODE\STC11.H(428): error C231: 'SM1': redefinition
+..\CODE\STC11.H(429): error C231: 'SM2': redefinition
+..\CODE\STC11.H(430): error C231: 'REN': redefinition
+..\CODE\STC11.H(431): error C231: 'TB8': redefinition
+..\CODE\STC11.H(432): error C231: 'RB8': redefinition
+..\CODE\STC11.H(433): error C231: 'TI': redefinition
+..\CODE\STC11.H(434): error C231: 'RI': redefinition
+..\CODE\STC11.H(438): error C231: 'SBUF': redefinition
+compiling uart.c...
+..\CODE\STC11.H(21): error C231: 'PSW': redefinition
+..\CODE\STC11.H(25): error C231: 'CY': redefinition
+..\CODE\STC11.H(26): error C231: 'AC': redefinition
+..\CODE\STC11.H(27): error C231: 'F0': redefinition
+..\CODE\STC11.H(28): error C231: 'RS1': redefinition
+..\CODE\STC11.H(29): error C231: 'RS0': redefinition
+..\CODE\STC11.H(30): error C231: 'OV': redefinition
+..\CODE\STC11.H(31): error C231: 'P': redefinition
+..\CODE\STC11.H(35): error C231: 'ACC': redefinition
+..\CODE\STC11.H(49): error C231: 'B': redefinition
+..\CODE\STC11.H(54): error C231: 'SP': redefinition
+..\CODE\STC11.H(59): error C231: 'DPL': redefinition
+..\CODE\STC11.H(64): error C231: 'DPH': redefinition
+..\CODE\STC11.H(69): error C231: 'PCON': redefinition
+..\CODE\STC11.H(174): error C231: 'P0': redefinition
+..\CODE\STC11.H(189): error C231: 'P1': redefinition
+..\CODE\STC11.H(209): error C231: 'P2': redefinition
+..\CODE\STC11.H(224): error C231: 'P3': redefinition
+..\CODE\STC11.H(237): error C231: 'RXD': redefinition
+..\CODE\STC11.H(238): error C231: 'TXD': redefinition
+..\CODE\STC11.H(239): error C231: 'INT0': redefinition
+..\CODE\STC11.H(240): error C231: 'INT1': redefinition
+..\CODE\STC11.H(241): error C231: 'T0': redefinition
+..\CODE\STC11.H(242): error C231: 'T1': redefinition
+..\CODE\STC11.H(243): error C231: 'WR': redefinition
+..\CODE\STC11.H(244): error C231: 'RD': redefinition
+..\CODE\STC11.H(334): error C231: 'IE': redefinition
+..\CODE\STC11.H(338): error C231: 'EA': redefinition
+..\CODE\STC11.H(340): error C231: 'ES': redefinition
+..\CODE\STC11.H(341): error C231: 'ET1': redefinition
+..\CODE\STC11.H(342): error C231: 'EX1': redefinition
+..\CODE\STC11.H(343): error C231: 'ET0': redefinition
+..\CODE\STC11.H(344): error C231: 'EX0': redefinition
+..\CODE\STC11.H(355): error C231: 'IP': redefinition
+..\CODE\STC11.H(360): error C231: 'PS': redefinition
+..\CODE\STC11.H(361): error C231: 'PT1': redefinition
+..\CODE\STC11.H(362): error C231: 'PX1': redefinition
+..\CODE\STC11.H(363): error C231: 'PT0': redefinition
+..\CODE\STC11.H(364): error C231: 'PX0': redefinition
+..\CODE\STC11.H(368): error C231: 'TCON': redefinition
+..\CODE\STC11.H(372): error C231: 'TF1': redefinition
+..\CODE\STC11.H(373): error C231: 'TR1': redefinition
+..\CODE\STC11.H(374): error C231: 'TF0': redefinition
+..\CODE\STC11.H(375): error C231: 'TR0': redefinition
+..\CODE\STC11.H(376): error C231: 'IE1': redefinition
+..\CODE\STC11.H(377): error C231: 'IT1': redefinition
+..\CODE\STC11.H(378): error C231: 'IE0': redefinition
+..\CODE\STC11.H(379): error C231: 'IT0': redefinition
+..\CODE\STC11.H(383): error C231: 'TMOD': redefinition
+..\CODE\STC11.H(402): error C231: 'TL0': redefinition
+..\CODE\STC11.H(407): error C231: 'TL1': redefinition
+..\CODE\STC11.H(412): error C231: 'TH0': redefinition
+..\CODE\STC11.H(417): error C231: 'TH1': redefinition
+..\CODE\STC11.H(422): error C231: 'SCON': redefinition
+..\CODE\STC11.H(427): error C231: 'SM0': redefinition
+..\CODE\STC11.H(428): error C231: 'SM1': redefinition
+..\CODE\STC11.H(429): error C231: 'SM2': redefinition
+..\CODE\STC11.H(430): error C231: 'REN': redefinition
+..\CODE\STC11.H(431): error C231: 'TB8': redefinition
+..\CODE\STC11.H(432): error C231: 'RB8': redefinition
+..\CODE\STC11.H(433): error C231: 'TI': redefinition
+..\CODE\STC11.H(434): error C231: 'RI': redefinition
+..\CODE\STC11.H(438): error C231: 'SBUF': redefinition
+compiling lcd_1602.c...
+..\CODE\STC11.H(21): error C231: 'PSW': redefinition
+..\CODE\STC11.H(25): error C231: 'CY': redefinition
+..\CODE\STC11.H(26): error C231: 'AC': redefinition
+..\CODE\STC11.H(27): error C231: 'F0': redefinition
+..\CODE\STC11.H(28): error C231: 'RS1': redefinition
+..\CODE\STC11.H(29): error C231: 'RS0': redefinition
+..\CODE\STC11.H(30): error C231: 'OV': redefinition
+..\CODE\STC11.H(31): error C231: 'P': redefinition
+..\CODE\STC11.H(35): error C231: 'ACC': redefinition
+..\CODE\STC11.H(49): error C231: 'B': redefinition
+..\CODE\STC11.H(54): error C231: 'SP': redefinition
+..\CODE\STC11.H(59): error C231: 'DPL': redefinition
+..\CODE\STC11.H(64): error C231: 'DPH': redefinition
+..\CODE\STC11.H(69): error C231: 'PCON': redefinition
+..\CODE\STC11.H(174): error C231: 'P0': redefinition
+..\CODE\STC11.H(189): error C231: 'P1': redefinition
+..\CODE\STC11.H(209): error C231: 'P2': redefinition
+..\CODE\STC11.H(224): error C231: 'P3': redefinition
+..\CODE\STC11.H(237): error C231: 'RXD': redefinition
+..\CODE\STC11.H(238): error C231: 'TXD': redefinition
+..\CODE\STC11.H(239): error C231: 'INT0': redefinition
+..\CODE\STC11.H(240): error C231: 'INT1': redefinition
+..\CODE\STC11.H(241): error C231: 'T0': redefinition
+..\CODE\STC11.H(242): error C231: 'T1': redefinition
+..\CODE\STC11.H(243): error C231: 'WR': redefinition
+..\CODE\STC11.H(244): error C231: 'RD': redefinition
+..\CODE\STC11.H(334): error C231: 'IE': redefinition
+..\CODE\STC11.H(338): error C231: 'EA': redefinition
+..\CODE\STC11.H(340): error C231: 'ES': redefinition
+..\CODE\STC11.H(341): error C231: 'ET1': redefinition
+..\CODE\STC11.H(342): error C231: 'EX1': redefinition
+..\CODE\STC11.H(343): error C231: 'ET0': redefinition
+..\CODE\STC11.H(344): error C231: 'EX0': redefinition
+..\CODE\STC11.H(355): error C231: 'IP': redefinition
+..\CODE\STC11.H(360): error C231: 'PS': redefinition
+..\CODE\STC11.H(361): error C231: 'PT1': redefinition
+..\CODE\STC11.H(362): error C231: 'PX1': redefinition
+..\CODE\STC11.H(363): error C231: 'PT0': redefinition
+..\CODE\STC11.H(364): error C231: 'PX0': redefinition
+..\CODE\STC11.H(368): error C231: 'TCON': redefinition
+..\CODE\STC11.H(372): error C231: 'TF1': redefinition
+..\CODE\STC11.H(373): error C231: 'TR1': redefinition
+..\CODE\STC11.H(374): error C231: 'TF0': redefinition
+..\CODE\STC11.H(375): error C231: 'TR0': redefinition
+..\CODE\STC11.H(376): error C231: 'IE1': redefinition
+..\CODE\STC11.H(377): error C231: 'IT1': redefinition
+..\CODE\STC11.H(378): error C231: 'IE0': redefinition
+..\CODE\STC11.H(379): error C231: 'IT0': redefinition
+..\CODE\STC11.H(383): error C231: 'TMOD': redefinition
+..\CODE\STC11.H(402): error C231: 'TL0': redefinition
+..\CODE\STC11.H(407): error C231: 'TL1': redefinition
+..\CODE\STC11.H(412): error C231: 'TH0': redefinition
+..\CODE\STC11.H(417): error C231: 'TH1': redefinition
+..\CODE\STC11.H(422): error C231: 'SCON': redefinition
+..\CODE\STC11.H(427): error C231: 'SM0': redefinition
+..\CODE\STC11.H(428): error C231: 'SM1': redefinition
+..\CODE\STC11.H(429): error C231: 'SM2': redefinition
+..\CODE\STC11.H(430): error C231: 'REN': redefinition
+..\CODE\STC11.H(431): error C231: 'TB8': redefinition
+..\CODE\STC11.H(432): error C231: 'RB8': redefinition
+..\CODE\STC11.H(433): error C231: 'TI': redefinition
+..\CODE\STC11.H(434): error C231: 'RI': redefinition
+..\CODE\STC11.H(438): error C231: 'SBUF': redefinition
+compiling key.c...
+..\CODE\STC11.H(21): error C231: 'PSW': redefinition
+..\CODE\STC11.H(25): error C231: 'CY': redefinition
+..\CODE\STC11.H(26): error C231: 'AC': redefinition
+..\CODE\STC11.H(27): error C231: 'F0': redefinition
+..\CODE\STC11.H(28): error C231: 'RS1': redefinition
+..\CODE\STC11.H(29): error C231: 'RS0': redefinition
+..\CODE\STC11.H(30): error C231: 'OV': redefinition
+..\CODE\STC11.H(31): error C231: 'P': redefinition
+..\CODE\STC11.H(35): error C231: 'ACC': redefinition
+..\CODE\STC11.H(49): error C231: 'B': redefinition
+..\CODE\STC11.H(54): error C231: 'SP': redefinition
+..\CODE\STC11.H(59): error C231: 'DPL': redefinition
+..\CODE\STC11.H(64): error C231: 'DPH': redefinition
+..\CODE\STC11.H(69): error C231: 'PCON': redefinition
+..\CODE\STC11.H(174): error C231: 'P0': redefinition
+..\CODE\STC11.H(189): error C231: 'P1': redefinition
+..\CODE\STC11.H(209): error C231: 'P2': redefinition
+..\CODE\STC11.H(224): error C231: 'P3': redefinition
+..\CODE\STC11.H(237): error C231: 'RXD': redefinition
+..\CODE\STC11.H(238): error C231: 'TXD': redefinition
+..\CODE\STC11.H(239): error C231: 'INT0': redefinition
+..\CODE\STC11.H(240): error C231: 'INT1': redefinition
+..\CODE\STC11.H(241): error C231: 'T0': redefinition
+..\CODE\STC11.H(242): error C231: 'T1': redefinition
+..\CODE\STC11.H(243): error C231: 'WR': redefinition
+..\CODE\STC11.H(244): error C231: 'RD': redefinition
+..\CODE\STC11.H(334): error C231: 'IE': redefinition
+..\CODE\STC11.H(338): error C231: 'EA': redefinition
+..\CODE\STC11.H(340): error C231: 'ES': redefinition
+..\CODE\STC11.H(341): error C231: 'ET1': redefinition
+..\CODE\STC11.H(342): error C231: 'EX1': redefinition
+..\CODE\STC11.H(343): error C231: 'ET0': redefinition
+..\CODE\STC11.H(344): error C231: 'EX0': redefinition
+..\CODE\STC11.H(355): error C231: 'IP': redefinition
+..\CODE\STC11.H(360): error C231: 'PS': redefinition
+..\CODE\STC11.H(361): error C231: 'PT1': redefinition
+..\CODE\STC11.H(362): error C231: 'PX1': redefinition
+..\CODE\STC11.H(363): error C231: 'PT0': redefinition
+..\CODE\STC11.H(364): error C231: 'PX0': redefinition
+..\CODE\STC11.H(368): error C231: 'TCON': redefinition
+..\CODE\STC11.H(372): error C231: 'TF1': redefinition
+..\CODE\STC11.H(373): error C231: 'TR1': redefinition
+..\CODE\STC11.H(374): error C231: 'TF0': redefinition
+..\CODE\STC11.H(375): error C231: 'TR0': redefinition
+..\CODE\STC11.H(376): error C231: 'IE1': redefinition
+..\CODE\STC11.H(377): error C231: 'IT1': redefinition
+..\CODE\STC11.H(378): error C231: 'IE0': redefinition
+..\CODE\STC11.H(379): error C231: 'IT0': redefinition
+..\CODE\STC11.H(383): error C231: 'TMOD': redefinition
+..\CODE\STC11.H(402): error C231: 'TL0': redefinition
+..\CODE\STC11.H(407): error C231: 'TL1': redefinition
+..\CODE\STC11.H(412): error C231: 'TH0': redefinition
+..\CODE\STC11.H(417): error C231: 'TH1': redefinition
+..\CODE\STC11.H(422): error C231: 'SCON': redefinition
+..\CODE\STC11.H(427): error C231: 'SM0': redefinition
+..\CODE\STC11.H(428): error C231: 'SM1': redefinition
+..\CODE\STC11.H(429): error C231: 'SM2': redefinition
+..\CODE\STC11.H(430): error C231: 'REN': redefinition
+..\CODE\STC11.H(431): error C231: 'TB8': redefinition
+..\CODE\STC11.H(432): error C231: 'RB8': redefinition
+..\CODE\STC11.H(433): error C231: 'TI': redefinition
+..\CODE\STC11.H(434): error C231: 'RI': redefinition
+..\CODE\STC11.H(438): error C231: 'SBUF': redefinition
+Target not created
+Build target 'Target 1'
+compiling ctrl.c...
+..\CODE\STC11.H(21): error C231: 'PSW': redefinition
+..\CODE\STC11.H(25): error C231: 'CY': redefinition
+..\CODE\STC11.H(26): error C231: 'AC': redefinition
+..\CODE\STC11.H(27): error C231: 'F0': redefinition
+..\CODE\STC11.H(28): error C231: 'RS1': redefinition
+..\CODE\STC11.H(29): error C231: 'RS0': redefinition
+..\CODE\STC11.H(30): error C231: 'OV': redefinition
+..\CODE\STC11.H(31): error C231: 'P': redefinition
+..\CODE\STC11.H(35): error C231: 'ACC': redefinition
+..\CODE\STC11.H(49): error C231: 'B': redefinition
+..\CODE\STC11.H(54): error C231: 'SP': redefinition
+..\CODE\STC11.H(59): error C231: 'DPL': redefinition
+..\CODE\STC11.H(64): error C231: 'DPH': redefinition
+..\CODE\STC11.H(69): error C231: 'PCON': redefinition
+..\CODE\STC11.H(174): error C231: 'P0': redefinition
+..\CODE\STC11.H(189): error C231: 'P1': redefinition
+..\CODE\STC11.H(209): error C231: 'P2': redefinition
+..\CODE\STC11.H(224): error C231: 'P3': redefinition
+..\CODE\STC11.H(237): error C231: 'RXD': redefinition
+..\CODE\STC11.H(238): error C231: 'TXD': redefinition
+..\CODE\STC11.H(239): error C231: 'INT0': redefinition
+..\CODE\STC11.H(240): error C231: 'INT1': redefinition
+..\CODE\STC11.H(241): error C231: 'T0': redefinition
+..\CODE\STC11.H(242): error C231: 'T1': redefinition
+..\CODE\STC11.H(243): error C231: 'WR': redefinition
+..\CODE\STC11.H(244): error C231: 'RD': redefinition
+..\CODE\STC11.H(334): error C231: 'IE': redefinition
+..\CODE\STC11.H(338): error C231: 'EA': redefinition
+..\CODE\STC11.H(340): error C231: 'ES': redefinition
+..\CODE\STC11.H(341): error C231: 'ET1': redefinition
+..\CODE\STC11.H(342): error C231: 'EX1': redefinition
+..\CODE\STC11.H(343): error C231: 'ET0': redefinition
+..\CODE\STC11.H(344): error C231: 'EX0': redefinition
+..\CODE\STC11.H(355): error C231: 'IP': redefinition
+..\CODE\STC11.H(360): error C231: 'PS': redefinition
+..\CODE\STC11.H(361): error C231: 'PT1': redefinition
+..\CODE\STC11.H(362): error C231: 'PX1': redefinition
+..\CODE\STC11.H(363): error C231: 'PT0': redefinition
+..\CODE\STC11.H(364): error C231: 'PX0': redefinition
+..\CODE\STC11.H(368): error C231: 'TCON': redefinition
+..\CODE\STC11.H(372): error C231: 'TF1': redefinition
+..\CODE\STC11.H(373): error C231: 'TR1': redefinition
+..\CODE\STC11.H(374): error C231: 'TF0': redefinition
+..\CODE\STC11.H(375): error C231: 'TR0': redefinition
+..\CODE\STC11.H(376): error C231: 'IE1': redefinition
+..\CODE\STC11.H(377): error C231: 'IT1': redefinition
+..\CODE\STC11.H(378): error C231: 'IE0': redefinition
+..\CODE\STC11.H(379): error C231: 'IT0': redefinition
+..\CODE\STC11.H(383): error C231: 'TMOD': redefinition
+..\CODE\STC11.H(402): error C231: 'TL0': redefinition
+..\CODE\STC11.H(407): error C231: 'TL1': redefinition
+..\CODE\STC11.H(412): error C231: 'TH0': redefinition
+..\CODE\STC11.H(417): error C231: 'TH1': redefinition
+..\CODE\STC11.H(422): error C231: 'SCON': redefinition
+..\CODE\STC11.H(427): error C231: 'SM0': redefinition
+..\CODE\STC11.H(428): error C231: 'SM1': redefinition
+..\CODE\STC11.H(429): error C231: 'SM2': redefinition
+..\CODE\STC11.H(430): error C231: 'REN': redefinition
+..\CODE\STC11.H(431): error C231: 'TB8': redefinition
+..\CODE\STC11.H(432): error C231: 'RB8': redefinition
+..\CODE\STC11.H(433): error C231: 'TI': redefinition
+..\CODE\STC11.H(434): error C231: 'RI': redefinition
+..\CODE\STC11.H(438): error C231: 'SBUF': redefinition
+compiling main.c...
+..\CODE\STC11.H(21): error C231: 'PSW': redefinition
+..\CODE\STC11.H(25): error C231: 'CY': redefinition
+..\CODE\STC11.H(26): error C231: 'AC': redefinition
+..\CODE\STC11.H(27): error C231: 'F0': redefinition
+..\CODE\STC11.H(28): error C231: 'RS1': redefinition
+..\CODE\STC11.H(29): error C231: 'RS0': redefinition
+..\CODE\STC11.H(30): error C231: 'OV': redefinition
+..\CODE\STC11.H(31): error C231: 'P': redefinition
+..\CODE\STC11.H(35): error C231: 'ACC': redefinition
+..\CODE\STC11.H(49): error C231: 'B': redefinition
+..\CODE\STC11.H(54): error C231: 'SP': redefinition
+..\CODE\STC11.H(59): error C231: 'DPL': redefinition
+..\CODE\STC11.H(64): error C231: 'DPH': redefinition
+..\CODE\STC11.H(69): error C231: 'PCON': redefinition
+..\CODE\STC11.H(174): error C231: 'P0': redefinition
+..\CODE\STC11.H(189): error C231: 'P1': redefinition
+..\CODE\STC11.H(209): error C231: 'P2': redefinition
+..\CODE\STC11.H(224): error C231: 'P3': redefinition
+..\CODE\STC11.H(237): error C231: 'RXD': redefinition
+..\CODE\STC11.H(238): error C231: 'TXD': redefinition
+..\CODE\STC11.H(239): error C231: 'INT0': redefinition
+..\CODE\STC11.H(240): error C231: 'INT1': redefinition
+..\CODE\STC11.H(241): error C231: 'T0': redefinition
+..\CODE\STC11.H(242): error C231: 'T1': redefinition
+..\CODE\STC11.H(243): error C231: 'WR': redefinition
+..\CODE\STC11.H(244): error C231: 'RD': redefinition
+..\CODE\STC11.H(334): error C231: 'IE': redefinition
+..\CODE\STC11.H(338): error C231: 'EA': redefinition
+..\CODE\STC11.H(340): error C231: 'ES': redefinition
+..\CODE\STC11.H(341): error C231: 'ET1': redefinition
+..\CODE\STC11.H(342): error C231: 'EX1': redefinition
+..\CODE\STC11.H(343): error C231: 'ET0': redefinition
+..\CODE\STC11.H(344): error C231: 'EX0': redefinition
+..\CODE\STC11.H(355): error C231: 'IP': redefinition
+..\CODE\STC11.H(360): error C231: 'PS': redefinition
+..\CODE\STC11.H(361): error C231: 'PT1': redefinition
+..\CODE\STC11.H(362): error C231: 'PX1': redefinition
+..\CODE\STC11.H(363): error C231: 'PT0': redefinition
+..\CODE\STC11.H(364): error C231: 'PX0': redefinition
+..\CODE\STC11.H(368): error C231: 'TCON': redefinition
+..\CODE\STC11.H(372): error C231: 'TF1': redefinition
+..\CODE\STC11.H(373): error C231: 'TR1': redefinition
+..\CODE\STC11.H(374): error C231: 'TF0': redefinition
+..\CODE\STC11.H(375): error C231: 'TR0': redefinition
+..\CODE\STC11.H(376): error C231: 'IE1': redefinition
+..\CODE\STC11.H(377): error C231: 'IT1': redefinition
+..\CODE\STC11.H(378): error C231: 'IE0': redefinition
+..\CODE\STC11.H(379): error C231: 'IT0': redefinition
+..\CODE\STC11.H(383): error C231: 'TMOD': redefinition
+..\CODE\STC11.H(402): error C231: 'TL0': redefinition
+..\CODE\STC11.H(407): error C231: 'TL1': redefinition
+..\CODE\STC11.H(412): error C231: 'TH0': redefinition
+..\CODE\STC11.H(417): error C231: 'TH1': redefinition
+..\CODE\STC11.H(422): error C231: 'SCON': redefinition
+..\CODE\STC11.H(427): error C231: 'SM0': redefinition
+..\CODE\STC11.H(428): error C231: 'SM1': redefinition
+..\CODE\STC11.H(429): error C231: 'SM2': redefinition
+..\CODE\STC11.H(430): error C231: 'REN': redefinition
+..\CODE\STC11.H(431): error C231: 'TB8': redefinition
+..\CODE\STC11.H(432): error C231: 'RB8': redefinition
+..\CODE\STC11.H(433): error C231: 'TI': redefinition
+..\CODE\STC11.H(434): error C231: 'RI': redefinition
+..\CODE\STC11.H(438): error C231: 'SBUF': redefinition
+compiling rc522.c...
+..\CODE\STC11.H(21): error C231: 'PSW': redefinition
+..\CODE\STC11.H(25): error C231: 'CY': redefinition
+..\CODE\STC11.H(26): error C231: 'AC': redefinition
+..\CODE\STC11.H(27): error C231: 'F0': redefinition
+..\CODE\STC11.H(28): error C231: 'RS1': redefinition
+..\CODE\STC11.H(29): error C231: 'RS0': redefinition
+..\CODE\STC11.H(30): error C231: 'OV': redefinition
+..\CODE\STC11.H(31): error C231: 'P': redefinition
+..\CODE\STC11.H(35): error C231: 'ACC': redefinition
+..\CODE\STC11.H(49): error C231: 'B': redefinition
+..\CODE\STC11.H(54): error C231: 'SP': redefinition
+..\CODE\STC11.H(59): error C231: 'DPL': redefinition
+..\CODE\STC11.H(64): error C231: 'DPH': redefinition
+..\CODE\STC11.H(69): error C231: 'PCON': redefinition
+..\CODE\STC11.H(174): error C231: 'P0': redefinition
+..\CODE\STC11.H(189): error C231: 'P1': redefinition
+..\CODE\STC11.H(209): error C231: 'P2': redefinition
+..\CODE\STC11.H(224): error C231: 'P3': redefinition
+..\CODE\STC11.H(237): error C231: 'RXD': redefinition
+..\CODE\STC11.H(238): error C231: 'TXD': redefinition
+..\CODE\STC11.H(239): error C231: 'INT0': redefinition
+..\CODE\STC11.H(240): error C231: 'INT1': redefinition
+..\CODE\STC11.H(241): error C231: 'T0': redefinition
+..\CODE\STC11.H(242): error C231: 'T1': redefinition
+..\CODE\STC11.H(243): error C231: 'WR': redefinition
+..\CODE\STC11.H(244): error C231: 'RD': redefinition
+..\CODE\STC11.H(334): error C231: 'IE': redefinition
+..\CODE\STC11.H(338): error C231: 'EA': redefinition
+..\CODE\STC11.H(340): error C231: 'ES': redefinition
+..\CODE\STC11.H(341): error C231: 'ET1': redefinition
+..\CODE\STC11.H(342): error C231: 'EX1': redefinition
+..\CODE\STC11.H(343): error C231: 'ET0': redefinition
+..\CODE\STC11.H(344): error C231: 'EX0': redefinition
+..\CODE\STC11.H(355): error C231: 'IP': redefinition
+..\CODE\STC11.H(360): error C231: 'PS': redefinition
+..\CODE\STC11.H(361): error C231: 'PT1': redefinition
+..\CODE\STC11.H(362): error C231: 'PX1': redefinition
+..\CODE\STC11.H(363): error C231: 'PT0': redefinition
+..\CODE\STC11.H(364): error C231: 'PX0': redefinition
+..\CODE\STC11.H(368): error C231: 'TCON': redefinition
+..\CODE\STC11.H(372): error C231: 'TF1': redefinition
+..\CODE\STC11.H(373): error C231: 'TR1': redefinition
+..\CODE\STC11.H(374): error C231: 'TF0': redefinition
+..\CODE\STC11.H(375): error C231: 'TR0': redefinition
+..\CODE\STC11.H(376): error C231: 'IE1': redefinition
+..\CODE\STC11.H(377): error C231: 'IT1': redefinition
+..\CODE\STC11.H(378): error C231: 'IE0': redefinition
+..\CODE\STC11.H(379): error C231: 'IT0': redefinition
+..\CODE\STC11.H(383): error C231: 'TMOD': redefinition
+..\CODE\STC11.H(402): error C231: 'TL0': redefinition
+..\CODE\STC11.H(407): error C231: 'TL1': redefinition
+..\CODE\STC11.H(412): error C231: 'TH0': redefinition
+..\CODE\STC11.H(417): error C231: 'TH1': redefinition
+..\CODE\STC11.H(422): error C231: 'SCON': redefinition
+..\CODE\STC11.H(427): error C231: 'SM0': redefinition
+..\CODE\STC11.H(428): error C231: 'SM1': redefinition
+..\CODE\STC11.H(429): error C231: 'SM2': redefinition
+..\CODE\STC11.H(430): error C231: 'REN': redefinition
+..\CODE\STC11.H(431): error C231: 'TB8': redefinition
+..\CODE\STC11.H(432): error C231: 'RB8': redefinition
+..\CODE\STC11.H(433): error C231: 'TI': redefinition
+..\CODE\STC11.H(434): error C231: 'RI': redefinition
+..\CODE\STC11.H(438): error C231: 'SBUF': redefinition
+compiling timer.c...
+..\CODE\STC11.H(21): error C231: 'PSW': redefinition
+..\CODE\STC11.H(25): error C231: 'CY': redefinition
+..\CODE\STC11.H(26): error C231: 'AC': redefinition
+..\CODE\STC11.H(27): error C231: 'F0': redefinition
+..\CODE\STC11.H(28): error C231: 'RS1': redefinition
+..\CODE\STC11.H(29): error C231: 'RS0': redefinition
+..\CODE\STC11.H(30): error C231: 'OV': redefinition
+..\CODE\STC11.H(31): error C231: 'P': redefinition
+..\CODE\STC11.H(35): error C231: 'ACC': redefinition
+..\CODE\STC11.H(49): error C231: 'B': redefinition
+..\CODE\STC11.H(54): error C231: 'SP': redefinition
+..\CODE\STC11.H(59): error C231: 'DPL': redefinition
+..\CODE\STC11.H(64): error C231: 'DPH': redefinition
+..\CODE\STC11.H(69): error C231: 'PCON': redefinition
+..\CODE\STC11.H(174): error C231: 'P0': redefinition
+..\CODE\STC11.H(189): error C231: 'P1': redefinition
+..\CODE\STC11.H(209): error C231: 'P2': redefinition
+..\CODE\STC11.H(224): error C231: 'P3': redefinition
+..\CODE\STC11.H(237): error C231: 'RXD': redefinition
+..\CODE\STC11.H(238): error C231: 'TXD': redefinition
+..\CODE\STC11.H(239): error C231: 'INT0': redefinition
+..\CODE\STC11.H(240): error C231: 'INT1': redefinition
+..\CODE\STC11.H(241): error C231: 'T0': redefinition
+..\CODE\STC11.H(242): error C231: 'T1': redefinition
+..\CODE\STC11.H(243): error C231: 'WR': redefinition
+..\CODE\STC11.H(244): error C231: 'RD': redefinition
+..\CODE\STC11.H(334): error C231: 'IE': redefinition
+..\CODE\STC11.H(338): error C231: 'EA': redefinition
+..\CODE\STC11.H(340): error C231: 'ES': redefinition
+..\CODE\STC11.H(341): error C231: 'ET1': redefinition
+..\CODE\STC11.H(342): error C231: 'EX1': redefinition
+..\CODE\STC11.H(343): error C231: 'ET0': redefinition
+..\CODE\STC11.H(344): error C231: 'EX0': redefinition
+..\CODE\STC11.H(355): error C231: 'IP': redefinition
+..\CODE\STC11.H(360): error C231: 'PS': redefinition
+..\CODE\STC11.H(361): error C231: 'PT1': redefinition
+..\CODE\STC11.H(362): error C231: 'PX1': redefinition
+..\CODE\STC11.H(363): error C231: 'PT0': redefinition
+..\CODE\STC11.H(364): error C231: 'PX0': redefinition
+..\CODE\STC11.H(368): error C231: 'TCON': redefinition
+..\CODE\STC11.H(372): error C231: 'TF1': redefinition
+..\CODE\STC11.H(373): error C231: 'TR1': redefinition
+..\CODE\STC11.H(374): error C231: 'TF0': redefinition
+..\CODE\STC11.H(375): error C231: 'TR0': redefinition
+..\CODE\STC11.H(376): error C231: 'IE1': redefinition
+..\CODE\STC11.H(377): error C231: 'IT1': redefinition
+..\CODE\STC11.H(378): error C231: 'IE0': redefinition
+..\CODE\STC11.H(379): error C231: 'IT0': redefinition
+..\CODE\STC11.H(383): error C231: 'TMOD': redefinition
+..\CODE\STC11.H(402): error C231: 'TL0': redefinition
+..\CODE\STC11.H(407): error C231: 'TL1': redefinition
+..\CODE\STC11.H(412): error C231: 'TH0': redefinition
+..\CODE\STC11.H(417): error C231: 'TH1': redefinition
+..\CODE\STC11.H(422): error C231: 'SCON': redefinition
+..\CODE\STC11.H(427): error C231: 'SM0': redefinition
+..\CODE\STC11.H(428): error C231: 'SM1': redefinition
+..\CODE\STC11.H(429): error C231: 'SM2': redefinition
+..\CODE\STC11.H(430): error C231: 'REN': redefinition
+..\CODE\STC11.H(431): error C231: 'TB8': redefinition
+..\CODE\STC11.H(432): error C231: 'RB8': redefinition
+..\CODE\STC11.H(433): error C231: 'TI': redefinition
+..\CODE\STC11.H(434): error C231: 'RI': redefinition
+..\CODE\STC11.H(438): error C231: 'SBUF': redefinition
+compiling uart.c...
+..\CODE\STC11.H(21): error C231: 'PSW': redefinition
+..\CODE\STC11.H(25): error C231: 'CY': redefinition
+..\CODE\STC11.H(26): error C231: 'AC': redefinition
+..\CODE\STC11.H(27): error C231: 'F0': redefinition
+..\CODE\STC11.H(28): error C231: 'RS1': redefinition
+..\CODE\STC11.H(29): error C231: 'RS0': redefinition
+..\CODE\STC11.H(30): error C231: 'OV': redefinition
+..\CODE\STC11.H(31): error C231: 'P': redefinition
+..\CODE\STC11.H(35): error C231: 'ACC': redefinition
+..\CODE\STC11.H(49): error C231: 'B': redefinition
+..\CODE\STC11.H(54): error C231: 'SP': redefinition
+..\CODE\STC11.H(59): error C231: 'DPL': redefinition
+..\CODE\STC11.H(64): error C231: 'DPH': redefinition
+..\CODE\STC11.H(69): error C231: 'PCON': redefinition
+..\CODE\STC11.H(174): error C231: 'P0': redefinition
+..\CODE\STC11.H(189): error C231: 'P1': redefinition
+..\CODE\STC11.H(209): error C231: 'P2': redefinition
+..\CODE\STC11.H(224): error C231: 'P3': redefinition
+..\CODE\STC11.H(237): error C231: 'RXD': redefinition
+..\CODE\STC11.H(238): error C231: 'TXD': redefinition
+..\CODE\STC11.H(239): error C231: 'INT0': redefinition
+..\CODE\STC11.H(240): error C231: 'INT1': redefinition
+..\CODE\STC11.H(241): error C231: 'T0': redefinition
+..\CODE\STC11.H(242): error C231: 'T1': redefinition
+..\CODE\STC11.H(243): error C231: 'WR': redefinition
+..\CODE\STC11.H(244): error C231: 'RD': redefinition
+..\CODE\STC11.H(334): error C231: 'IE': redefinition
+..\CODE\STC11.H(338): error C231: 'EA': redefinition
+..\CODE\STC11.H(340): error C231: 'ES': redefinition
+..\CODE\STC11.H(341): error C231: 'ET1': redefinition
+..\CODE\STC11.H(342): error C231: 'EX1': redefinition
+..\CODE\STC11.H(343): error C231: 'ET0': redefinition
+..\CODE\STC11.H(344): error C231: 'EX0': redefinition
+..\CODE\STC11.H(355): error C231: 'IP': redefinition
+..\CODE\STC11.H(360): error C231: 'PS': redefinition
+..\CODE\STC11.H(361): error C231: 'PT1': redefinition
+..\CODE\STC11.H(362): error C231: 'PX1': redefinition
+..\CODE\STC11.H(363): error C231: 'PT0': redefinition
+..\CODE\STC11.H(364): error C231: 'PX0': redefinition
+..\CODE\STC11.H(368): error C231: 'TCON': redefinition
+..\CODE\STC11.H(372): error C231: 'TF1': redefinition
+..\CODE\STC11.H(373): error C231: 'TR1': redefinition
+..\CODE\STC11.H(374): error C231: 'TF0': redefinition
+..\CODE\STC11.H(375): error C231: 'TR0': redefinition
+..\CODE\STC11.H(376): error C231: 'IE1': redefinition
+..\CODE\STC11.H(377): error C231: 'IT1': redefinition
+..\CODE\STC11.H(378): error C231: 'IE0': redefinition
+..\CODE\STC11.H(379): error C231: 'IT0': redefinition
+..\CODE\STC11.H(383): error C231: 'TMOD': redefinition
+..\CODE\STC11.H(402): error C231: 'TL0': redefinition
+..\CODE\STC11.H(407): error C231: 'TL1': redefinition
+..\CODE\STC11.H(412): error C231: 'TH0': redefinition
+..\CODE\STC11.H(417): error C231: 'TH1': redefinition
+..\CODE\STC11.H(422): error C231: 'SCON': redefinition
+..\CODE\STC11.H(427): error C231: 'SM0': redefinition
+..\CODE\STC11.H(428): error C231: 'SM1': redefinition
+..\CODE\STC11.H(429): error C231: 'SM2': redefinition
+..\CODE\STC11.H(430): error C231: 'REN': redefinition
+..\CODE\STC11.H(431): error C231: 'TB8': redefinition
+..\CODE\STC11.H(432): error C231: 'RB8': redefinition
+..\CODE\STC11.H(433): error C231: 'TI': redefinition
+..\CODE\STC11.H(434): error C231: 'RI': redefinition
+..\CODE\STC11.H(438): error C231: 'SBUF': redefinition
+compiling lcd_1602.c...
+..\CODE\STC11.H(21): error C231: 'PSW': redefinition
+..\CODE\STC11.H(25): error C231: 'CY': redefinition
+..\CODE\STC11.H(26): error C231: 'AC': redefinition
+..\CODE\STC11.H(27): error C231: 'F0': redefinition
+..\CODE\STC11.H(28): error C231: 'RS1': redefinition
+..\CODE\STC11.H(29): error C231: 'RS0': redefinition
+..\CODE\STC11.H(30): error C231: 'OV': redefinition
+..\CODE\STC11.H(31): error C231: 'P': redefinition
+..\CODE\STC11.H(35): error C231: 'ACC': redefinition
+..\CODE\STC11.H(49): error C231: 'B': redefinition
+..\CODE\STC11.H(54): error C231: 'SP': redefinition
+..\CODE\STC11.H(59): error C231: 'DPL': redefinition
+..\CODE\STC11.H(64): error C231: 'DPH': redefinition
+..\CODE\STC11.H(69): error C231: 'PCON': redefinition
+..\CODE\STC11.H(174): error C231: 'P0': redefinition
+..\CODE\STC11.H(189): error C231: 'P1': redefinition
+..\CODE\STC11.H(209): error C231: 'P2': redefinition
+..\CODE\STC11.H(224): error C231: 'P3': redefinition
+..\CODE\STC11.H(237): error C231: 'RXD': redefinition
+..\CODE\STC11.H(238): error C231: 'TXD': redefinition
+..\CODE\STC11.H(239): error C231: 'INT0': redefinition
+..\CODE\STC11.H(240): error C231: 'INT1': redefinition
+..\CODE\STC11.H(241): error C231: 'T0': redefinition
+..\CODE\STC11.H(242): error C231: 'T1': redefinition
+..\CODE\STC11.H(243): error C231: 'WR': redefinition
+..\CODE\STC11.H(244): error C231: 'RD': redefinition
+..\CODE\STC11.H(334): error C231: 'IE': redefinition
+..\CODE\STC11.H(338): error C231: 'EA': redefinition
+..\CODE\STC11.H(340): error C231: 'ES': redefinition
+..\CODE\STC11.H(341): error C231: 'ET1': redefinition
+..\CODE\STC11.H(342): error C231: 'EX1': redefinition
+..\CODE\STC11.H(343): error C231: 'ET0': redefinition
+..\CODE\STC11.H(344): error C231: 'EX0': redefinition
+..\CODE\STC11.H(355): error C231: 'IP': redefinition
+..\CODE\STC11.H(360): error C231: 'PS': redefinition
+..\CODE\STC11.H(361): error C231: 'PT1': redefinition
+..\CODE\STC11.H(362): error C231: 'PX1': redefinition
+..\CODE\STC11.H(363): error C231: 'PT0': redefinition
+..\CODE\STC11.H(364): error C231: 'PX0': redefinition
+..\CODE\STC11.H(368): error C231: 'TCON': redefinition
+..\CODE\STC11.H(372): error C231: 'TF1': redefinition
+..\CODE\STC11.H(373): error C231: 'TR1': redefinition
+..\CODE\STC11.H(374): error C231: 'TF0': redefinition
+..\CODE\STC11.H(375): error C231: 'TR0': redefinition
+..\CODE\STC11.H(376): error C231: 'IE1': redefinition
+..\CODE\STC11.H(377): error C231: 'IT1': redefinition
+..\CODE\STC11.H(378): error C231: 'IE0': redefinition
+..\CODE\STC11.H(379): error C231: 'IT0': redefinition
+..\CODE\STC11.H(383): error C231: 'TMOD': redefinition
+..\CODE\STC11.H(402): error C231: 'TL0': redefinition
+..\CODE\STC11.H(407): error C231: 'TL1': redefinition
+..\CODE\STC11.H(412): error C231: 'TH0': redefinition
+..\CODE\STC11.H(417): error C231: 'TH1': redefinition
+..\CODE\STC11.H(422): error C231: 'SCON': redefinition
+..\CODE\STC11.H(427): error C231: 'SM0': redefinition
+..\CODE\STC11.H(428): error C231: 'SM1': redefinition
+..\CODE\STC11.H(429): error C231: 'SM2': redefinition
+..\CODE\STC11.H(430): error C231: 'REN': redefinition
+..\CODE\STC11.H(431): error C231: 'TB8': redefinition
+..\CODE\STC11.H(432): error C231: 'RB8': redefinition
+..\CODE\STC11.H(433): error C231: 'TI': redefinition
+..\CODE\STC11.H(434): error C231: 'RI': redefinition
+..\CODE\STC11.H(438): error C231: 'SBUF': redefinition
+compiling key.c...
+..\CODE\STC11.H(21): error C231: 'PSW': redefinition
+..\CODE\STC11.H(25): error C231: 'CY': redefinition
+..\CODE\STC11.H(26): error C231: 'AC': redefinition
+..\CODE\STC11.H(27): error C231: 'F0': redefinition
+..\CODE\STC11.H(28): error C231: 'RS1': redefinition
+..\CODE\STC11.H(29): error C231: 'RS0': redefinition
+..\CODE\STC11.H(30): error C231: 'OV': redefinition
+..\CODE\STC11.H(31): error C231: 'P': redefinition
+..\CODE\STC11.H(35): error C231: 'ACC': redefinition
+..\CODE\STC11.H(49): error C231: 'B': redefinition
+..\CODE\STC11.H(54): error C231: 'SP': redefinition
+..\CODE\STC11.H(59): error C231: 'DPL': redefinition
+..\CODE\STC11.H(64): error C231: 'DPH': redefinition
+..\CODE\STC11.H(69): error C231: 'PCON': redefinition
+..\CODE\STC11.H(174): error C231: 'P0': redefinition
+..\CODE\STC11.H(189): error C231: 'P1': redefinition
+..\CODE\STC11.H(209): error C231: 'P2': redefinition
+..\CODE\STC11.H(224): error C231: 'P3': redefinition
+..\CODE\STC11.H(237): error C231: 'RXD': redefinition
+..\CODE\STC11.H(238): error C231: 'TXD': redefinition
+..\CODE\STC11.H(239): error C231: 'INT0': redefinition
+..\CODE\STC11.H(240): error C231: 'INT1': redefinition
+..\CODE\STC11.H(241): error C231: 'T0': redefinition
+..\CODE\STC11.H(242): error C231: 'T1': redefinition
+..\CODE\STC11.H(243): error C231: 'WR': redefinition
+..\CODE\STC11.H(244): error C231: 'RD': redefinition
+..\CODE\STC11.H(334): error C231: 'IE': redefinition
+..\CODE\STC11.H(338): error C231: 'EA': redefinition
+..\CODE\STC11.H(340): error C231: 'ES': redefinition
+..\CODE\STC11.H(341): error C231: 'ET1': redefinition
+..\CODE\STC11.H(342): error C231: 'EX1': redefinition
+..\CODE\STC11.H(343): error C231: 'ET0': redefinition
+..\CODE\STC11.H(344): error C231: 'EX0': redefinition
+..\CODE\STC11.H(355): error C231: 'IP': redefinition
+..\CODE\STC11.H(360): error C231: 'PS': redefinition
+..\CODE\STC11.H(361): error C231: 'PT1': redefinition
+..\CODE\STC11.H(362): error C231: 'PX1': redefinition
+..\CODE\STC11.H(363): error C231: 'PT0': redefinition
+..\CODE\STC11.H(364): error C231: 'PX0': redefinition
+..\CODE\STC11.H(368): error C231: 'TCON': redefinition
+..\CODE\STC11.H(372): error C231: 'TF1': redefinition
+..\CODE\STC11.H(373): error C231: 'TR1': redefinition
+..\CODE\STC11.H(374): error C231: 'TF0': redefinition
+..\CODE\STC11.H(375): error C231: 'TR0': redefinition
+..\CODE\STC11.H(376): error C231: 'IE1': redefinition
+..\CODE\STC11.H(377): error C231: 'IT1': redefinition
+..\CODE\STC11.H(378): error C231: 'IE0': redefinition
+..\CODE\STC11.H(379): error C231: 'IT0': redefinition
+..\CODE\STC11.H(383): error C231: 'TMOD': redefinition
+..\CODE\STC11.H(402): error C231: 'TL0': redefinition
+..\CODE\STC11.H(407): error C231: 'TL1': redefinition
+..\CODE\STC11.H(412): error C231: 'TH0': redefinition
+..\CODE\STC11.H(417): error C231: 'TH1': redefinition
+..\CODE\STC11.H(422): error C231: 'SCON': redefinition
+..\CODE\STC11.H(427): error C231: 'SM0': redefinition
+..\CODE\STC11.H(428): error C231: 'SM1': redefinition
+..\CODE\STC11.H(429): error C231: 'SM2': redefinition
+..\CODE\STC11.H(430): error C231: 'REN': redefinition
+..\CODE\STC11.H(431): error C231: 'TB8': redefinition
+..\CODE\STC11.H(432): error C231: 'RB8': redefinition
+..\CODE\STC11.H(433): error C231: 'TI': redefinition
+..\CODE\STC11.H(434): error C231: 'RI': redefinition
+..\CODE\STC11.H(438): error C231: 'SBUF': redefinition
+Target not created
+Build target 'Target 1'
+compiling ctrl.c...
+compiling main.c...
+compiling rc522.c...
+compiling timer.c...
+compiling uart.c...
+compiling lcd_1602.c...
+compiling key.c...
+linking...
+Program Size: data=9.0 xdata=194 code=7651
+creating hex file from "STC11_RC522"...
+"STC11_RC522" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling ctrl.c...
+compiling main.c...
+compiling rc522.c...
+compiling timer.c...
+compiling uart.c...
+compiling lcd_1602.c...
+compiling key.c...
+linking...
+Program Size: data=9.0 xdata=194 code=7651
+creating hex file from "STC11_RC522"...
+"STC11_RC522" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling lcd_1602.c...
+linking...
+Program Size: data=9.0 xdata=194 code=7651
+creating hex file from "STC11_RC522"...
+"STC11_RC522" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: data=9.0 xdata=194 code=7651
+creating hex file from "STC11_RC522"...
+"STC11_RC522" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: data=9.0 xdata=194 code=7651
+creating hex file from "STC11_RC522"...
+"STC11_RC522" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: data=9.0 xdata=194 code=7651
+creating hex file from "STC11_RC522"...
+"STC11_RC522" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling main.c...
+..\CODE\MAIN.C(41): error C141: syntax error near 'beep'
+Target not created
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: data=9.0 xdata=194 code=7657
+creating hex file from "STC11_RC522"...
+"STC11_RC522" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling ctrl.c...
+linking...
+Program Size: data=9.0 xdata=194 code=7657
+creating hex file from "STC11_RC522"...
+"STC11_RC522" - 0 Error(s), 0 Warning(s).
