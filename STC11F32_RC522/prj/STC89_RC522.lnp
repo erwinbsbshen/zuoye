@@ -1,0 +1,10 @@
+"STARTUP.obj",
+".\ctrl.obj",
+".\main.obj",
+".\rc522.obj",
+".\timer.obj",
+".\uart.obj",
+".\lcd_1602.obj",
+".\key.obj" 
+TO "STC89_RC522" 
+RAMSIZE(256) 
